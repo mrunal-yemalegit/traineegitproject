@@ -1,0 +1,7 @@
+<html
+<head>
+</head>
+<body>
+<p>this is git. and thi is index page</p>
+</body
+</html>
